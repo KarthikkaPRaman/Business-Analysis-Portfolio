@@ -1,0 +1,82 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="29.2.9">
+  <diagram name="Page-1" id="NQncJ3_jq-iyHEHILYkr">
+    <mxGraphModel dx="786" dy="435" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="R7vK5fZ1xdgJ1OjZ-ghJ-3" edge="1" parent="1" source="R7vK5fZ1xdgJ1OjZ-ghJ-1" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="520" y="110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="R7vK5fZ1xdgJ1OjZ-ghJ-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="90" width="170" x="350" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="R7vK5fZ1xdgJ1OjZ-ghJ-2" parent="1" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" value="Banks/KYC/Exchange rates/ Money transfer" vertex="1">
+          <mxGeometry height="30" width="82.5" x="397.5" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="R7vK5fZ1xdgJ1OjZ-ghJ-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="100" width="170" x="350" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="R7vK5fZ1xdgJ1OjZ-ghJ-5" parent="1" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" value="Text" vertex="1">
+          <mxGeometry height="30" width="60" x="340" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="R7vK5fZ1xdgJ1OjZ-ghJ-6" parent="1" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" value="Manual KYC/holiday delays/unclear conversion rates" vertex="1">
+          <mxGeometry height="50" width="120" x="370" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="R7vK5fZ1xdgJ1OjZ-ghJ-7" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="420" y="110" as="sourcePoint" />
+            <mxPoint x="420" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="R7vK5fZ1xdgJ1OjZ-ghJ-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="110" width="160" x="360" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="R7vK5fZ1xdgJ1OjZ-ghJ-9" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="430" y="260" />
+            </Array>
+            <mxPoint x="430" y="260" as="sourcePoint" />
+            <mxPoint x="430" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="R7vK5fZ1xdgJ1OjZ-ghJ-10" parent="1" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" value="waiting times/processing delays/min-max amount conversions&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="90" width="120" x="380" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="R7vK5fZ1xdgJ1OjZ-ghJ-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="100" width="160" x="370" y="510" as="geometry" />
+        </mxCell>
+        <mxCell id="R7vK5fZ1xdgJ1OjZ-ghJ-13" parent="1" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" value="Digital KYC/clear conversion rates/no min amt/no transfer delays" vertex="1">
+          <mxGeometry height="70" width="130" x="380" y="520" as="geometry" />
+        </mxCell>
+        <mxCell id="R7vK5fZ1xdgJ1OjZ-ghJ-15" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="438.25" y="440" />
+            </Array>
+            <mxPoint x="438.25" y="440" as="sourcePoint" />
+            <mxPoint x="438.25" y="510" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="R7vK5fZ1xdgJ1OjZ-ghJ-16" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="90" width="177.5" x="362.5" y="690" as="geometry" />
+        </mxCell>
+        <mxCell id="R7vK5fZ1xdgJ1OjZ-ghJ-17" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="R7vK5fZ1xdgJ1OjZ-ghJ-16" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="451" y="610" />
+              <mxPoint x="450" y="630" />
+            </Array>
+            <mxPoint x="451" y="610" as="sourcePoint" />
+            <mxPoint x="460" y="660" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="R7vK5fZ1xdgJ1OjZ-ghJ-18" parent="1" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" value="KYC Error/Duplication/more wait times/Incorrect rates" vertex="1">
+          <mxGeometry height="55" width="140" x="380" y="705" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
